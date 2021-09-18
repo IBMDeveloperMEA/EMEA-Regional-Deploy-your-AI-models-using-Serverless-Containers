@@ -17,6 +17,7 @@
 1. [Deploy with the CLI](#Deploy-with-the-CLI)
 1. [Deploy with the UI](#Deploy-with-the-UI)
 1. [Verify the application](#Verify-the-application)
+1. [Things you can try further](#Things-you-can-try-further)
   
 ## Prerequisites
   
