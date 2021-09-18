@@ -1,0 +1,1 @@
+# EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers
