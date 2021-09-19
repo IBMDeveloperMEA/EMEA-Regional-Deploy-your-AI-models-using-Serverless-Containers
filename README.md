@@ -159,4 +159,5 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
 ## Done with the workshop? Here are some things you can try further
 
 ## Authors
-
+- [Fawaz Siddiqi](https://linktr.ee/thefaz)
+- [EreN Akbaba](https://www.linkedin.com/in/erenakbaba/)
