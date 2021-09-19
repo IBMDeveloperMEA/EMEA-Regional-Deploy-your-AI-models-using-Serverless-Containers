@@ -14,104 +14,104 @@ jupyter:
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide1.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide1.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide2.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide2.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide3.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide3.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide4.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide4.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide5.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide5.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide6.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide6.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide7.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide7.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide8.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide8.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide9.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide9.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide10.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide10.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide11.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide11.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide12.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide12.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide13.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide13.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide14.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide14.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide15.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide15.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide16.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide16.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide17.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide17.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide18.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide18.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide19.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide19.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide20.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide20.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide21.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide21.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide22.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide22.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide23.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide23.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide24.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide24.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide25.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide25.png?raw=true)
 
 +++ {"slideshow": {"slide_type": "slide"}}
 
-![Center](/images/slide_images/Slide26.png)
+![Center](https://github.com/IBMDeveloperMEA/EMEA-Regional-Deploy-your-AI-models-using-Serverless-Containers/blob/main/images/slide_images/Slide26.png?raw=true)
