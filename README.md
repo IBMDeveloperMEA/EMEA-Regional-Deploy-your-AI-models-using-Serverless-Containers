@@ -1,6 +1,6 @@
 # Deploy your AI models using Serverless Containers
 
-## Workshop Resources
+## Workshop Resources 
 
 - Login/Sign Up for IBM Cloud: https://ibm.biz/ddc-emea
   
