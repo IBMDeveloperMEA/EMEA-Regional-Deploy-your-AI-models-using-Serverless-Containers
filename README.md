@@ -6,7 +6,7 @@
   
 - Hands-On Guide: https://ibm.biz/CodeEngine-AI
 
-- Slides: <Link>
+- Slides: https://ibm.biz/CodeEngine-AI-Slides
 
 - Workshop Replay: https://www.crowdcast.io/e/ddc-emea
 
@@ -149,14 +149,26 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
 
 - Hands-On Guide: https://ibm.biz/CodeEngine-AI
 
-- Slides: <Link>
+- Slides: https://ibm.biz/CodeEngine-AI-Slides
 
 - Workshop Replay: https://www.crowdcast.io/e/ddc-emea
 
 
 ## Reference Links
+
+- [Knative Resources](https://www.ibm.com/cloud/knative)
+- [When to use IaaS, FaaS, PaaS, and CaaS](https://developer.ibm.com/depmodels/cloud/articles/when-to-use-iaas-faas-paas-and-caas/)
+- [IBM Cloud Code Engine](https://cloud.ibm.com/codeengine)
+- [IBM Cloud Container Service](https://cloud.ibm.com/container-service)
   
 ## Done with the workshop? Here are some things you can try further
+
+- IBM Cloud Certifications
+   - [IBM Cloud Essentials V2](https://ibm.biz/cloud_essentials)
+   - [IBM Cloud Application Development Essentials](https://ibm.biz/cloud_dev_essentials)
+   - [IBM Applied Cloud Native Development](https://ibm.biz/cloud_native_dev)
+
+- [Code Engine Sample Apps](https://github.com/IBM/CodeEngine)
 
 ## Authors
 - [Fawaz Siddiqi](https://linktr.ee/thefaz)
