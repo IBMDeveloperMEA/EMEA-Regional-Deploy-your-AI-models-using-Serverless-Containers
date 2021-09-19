@@ -163,7 +163,7 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
   
 ## Done with the workshop? Here are some things you can try further
 
-- IBM Cloud Certifications
+- IBM Cloud Certifications
    - [IBM Cloud Essentials V2](https://ibm.biz/cloud_essentials)
    - [IBM Cloud Application Development Essentials](https://ibm.biz/cloud_dev_essentials)
    - [IBM Applied Cloud Native Development](https://ibm.biz/cloud_native_dev)
