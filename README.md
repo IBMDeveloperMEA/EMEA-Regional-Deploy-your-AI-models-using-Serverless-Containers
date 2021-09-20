@@ -10,6 +10,10 @@
 
 - Workshop Replay: https://www.crowdcast.io/e/digital-developer
 
+- YouTube: https://youtu.be/GtHm8Io16SU
+
+- Twitch: twitch.tv/ibmdeveloper
+
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
 1. [Learning Objective](#Learning-objective)
@@ -152,6 +156,11 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
 - Slides: https://ibm.biz/CodeEngine-AI-Slides
 
 - Workshop Replay: https://www.crowdcast.io/e/digital-developer
+
+- YouTube: https://youtu.be/GtHm8Io16SU
+
+- Twitch: twitch.tv/ibmdeveloper
+
 
 ## Reference Links
 
