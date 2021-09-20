@@ -8,7 +8,7 @@
 
 - Slides: https://ibm.biz/CodeEngine-AI-Slides
 
-- Workshop Replay: https://www.crowdcast.io/e/ddc-emea
+- Workshop Replay: https://www.crowdcast.io/e/digital-developer
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -151,8 +151,7 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
 
 - Slides: https://ibm.biz/CodeEngine-AI-Slides
 
-- Workshop Replay: https://www.crowdcast.io/e/ddc-emea
-
+- Workshop Replay: https://www.crowdcast.io/e/digital-developer
 
 ## Reference Links
 
