@@ -12,7 +12,7 @@
 
 - YouTube: https://youtu.be/GtHm8Io16SU
 
-- Twitch: twitch.tv/ibmdeveloper
+- Twitch: https://www.twitch.tv/ibmdeveloper
 
 ## Table of Contents
 1. [Prerequisites](#Prerequisites)
@@ -159,7 +159,7 @@ This tutorial illustrates how to deploy a model container from the Model Asset E
 
 - YouTube: https://youtu.be/GtHm8Io16SU
 
-- Twitch: twitch.tv/ibmdeveloper
+- Twitch: https://www.twitch.tv/ibmdeveloper
 
 
 ## Reference Links
